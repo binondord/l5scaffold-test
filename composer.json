@@ -4,9 +4,16 @@
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
+    "repositories": [
+      {
+        "type": "vcs",
+        "url":  "https://github.com/binondord/l5scaffold.git"
+      }
+    ],
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.1.*"
+        "laravel/framework": "5.1.*",
+        "laralib/l5scaffold": "dev-angularjs"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
