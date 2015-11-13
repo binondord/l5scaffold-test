@@ -368,12 +368,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/binondord/l5scaffold.git",
-                "reference": "893d7c3531449c17fa48e9d1974f449d7947c8eb"
+                "reference": "8e87284af9fa42f305f3944d5c1c4bba78e53e7e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/binondord/l5scaffold/zipball/893d7c3531449c17fa48e9d1974f449d7947c8eb",
-                "reference": "893d7c3531449c17fa48e9d1974f449d7947c8eb",
+                "url": "https://api.github.com/repos/binondord/l5scaffold/zipball/8e87284af9fa42f305f3944d5c1c4bba78e53e7e",
+                "reference": "8e87284af9fa42f305f3944d5c1c4bba78e53e7e",
                 "shasum": ""
             },
             "require": {
@@ -403,9 +403,9 @@
                 "scaffold"
             ],
             "support": {
-                "source": "https://github.com/binondord/l5scaffold/tree/1.0.4"
+                "source": "https://github.com/binondord/l5scaffold/tree/angularjs"
             },
-            "time": "2015-10-02 22:23:19"
+            "time": "2015-11-13 08:48:23"
         },
         {
             "name": "laravel/framework",
@@ -921,16 +921,16 @@
         },
         {
             "name": "psy/psysh",
-            "version": "v0.6.0",
+            "version": "v0.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bobthecow/psysh.git",
-                "reference": "cab3aa3750d451c6e8d002433af583d88fd64862"
+                "reference": "0f04df0b23663799a8941fae13cd8e6299bde3ed"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bobthecow/psysh/zipball/cab3aa3750d451c6e8d002433af583d88fd64862",
-                "reference": "cab3aa3750d451c6e8d002433af583d88fd64862",
+                "url": "https://api.github.com/repos/bobthecow/psysh/zipball/0f04df0b23663799a8941fae13cd8e6299bde3ed",
+                "reference": "0f04df0b23663799a8941fae13cd8e6299bde3ed",
                 "shasum": ""
             },
             "require": {
@@ -989,7 +989,7 @@
                 "interactive",
                 "shell"
             ],
-            "time": "2015-11-08 22:24:35"
+            "time": "2015-11-12 16:18:56"
         },
         {
             "name": "swiftmailer/swiftmailer",
