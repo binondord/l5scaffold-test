@@ -368,12 +368,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/binondord/l5scaffold.git",
-                "reference": "8e87284af9fa42f305f3944d5c1c4bba78e53e7e"
+                "reference": "8615b78fd718300587b0da79d312cfa1e7601fe7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/binondord/l5scaffold/zipball/8e87284af9fa42f305f3944d5c1c4bba78e53e7e",
-                "reference": "8e87284af9fa42f305f3944d5c1c4bba78e53e7e",
+                "url": "https://api.github.com/repos/binondord/l5scaffold/zipball/8615b78fd718300587b0da79d312cfa1e7601fe7",
+                "reference": "8615b78fd718300587b0da79d312cfa1e7601fe7",
                 "shasum": ""
             },
             "require": {
@@ -405,7 +405,7 @@
             "support": {
                 "source": "https://github.com/binondord/l5scaffold/tree/angularjs"
             },
-            "time": "2015-11-13 08:48:23"
+            "time": "2015-11-13 09:06:18"
         },
         {
             "name": "laravel/framework",
